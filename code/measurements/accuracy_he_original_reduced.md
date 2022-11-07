@@ -1,0 +1,527 @@
+# ACCURACY MEASURE OF HE, ORIGINAL AND REDUCED #
+
+REDUCED K = 3
+TOP-K = 5
+NEAR STASH POINT
+##
+--- FINAL DATAPOINT 0 ---           100/40%
+GC Distance : 1531 ID : 7444
+--- FINAL DATAPOINT 1 ---
+GC Distance : 1973 ID : 7481
+--- FINAL DATAPOINT 2 ---
+GC Distance : 4356 ID : 7445
+--- FINAL DATAPOINT 3 ---
+GC Distance : 4393 ID : 7451
+--- FINAL DATAPOINT 4 ---
+GC Distance : 4441 ID : 7454
+
+Distance 1524.25 ID 7444.0          40%
+Distance 1972.25 ID 7481.0
+Distance 4356.0 ID 7445.0
+Distance 4392.25 ID 7451.0
+Distance 4438.0 ID 7454.0
+
+Distance 25.0 ID 7445.0
+Distance 100.25 ID 7451.0
+Distance 219.0 ID 7438.0
+Distance 234.0 ID 7458.0
+Distance 305.25 ID 7438.0
+##
+
+##
+--- FINAL DATAPOINT 0 ---           80/80%
+GC Distance : 2705 ID : 31184
+--- FINAL DATAPOINT 1 ---
+GC Distance : 12557 ID : 31116
+--- FINAL DATAPOINT 2 ---
+GC Distance : 16052 ID : 31101
+--- FINAL DATAPOINT 3 ---
+GC Distance : 17819 ID : 31184
+--- FINAL DATAPOINT 4 ---
+GC Distance : 32587 ID : 30883
+
+Distance 2705.0 ID 31184.0          80%
+Distance 12557.0 ID 31116.0
+Distance 16052.0 ID 31101.0
+Distance 17812.25 ID 31184.0
+Distance 35332.25 ID 31049.0
+
+Distance 676.0 ID 31225.0
+Distance 2705.0 ID 31184.0
+Distance 12557.0 ID 31116.0
+Distance 16052.0 ID 31101.0
+Distance 17812.25 ID 31184.0
+##
+
+##
+--- FINAL DATAPOINT 0 ---           100/80%
+GC Distance : 4453 ID : 93840
+--- FINAL DATAPOINT 1 ---
+GC Distance : 11881 ID : 93831
+--- FINAL DATAPOINT 2 ---
+GC Distance : 12315 ID : 93790
+--- FINAL DATAPOINT 3 ---
+GC Distance : 15741 ID : 93855
+--- FINAL DATAPOINT 4 ---
+GC Distance : 16492 ID : 93721
+
+Distance 4441.0 ID 93840.0          20%
+Distance 11881.0 ID 93831.0
+Distance 12296.25 ID 93790.0
+Distance 15714.0 ID 93855.0
+Distance 16465.0 ID 93721.0
+
+Distance 1602.25 ID 93840.0
+Distance 2553.0 ID 93838.0
+Distance 4441.0 ID 93840.0
+Distance 5122.25 ID 93840.0
+Distance 6171.25 ID 93840.0
+##
+
+NEAR CLUSTER POINT 
+##
+--- FINAL DATAPOINT 0 ---           100/20%
+GC Distance : 5 ID : 3729
+--- FINAL DATAPOINT 1 ---
+GC Distance : 501 ID : 3743
+--- FINAL DATAPOINT 2 ---
+GC Distance : 582 ID : 3712
+--- FINAL DATAPOINT 3 ---
+GC Distance : 822 ID : 3706
+--- FINAL DATAPOINT 4 ---
+GC Distance : 1662 ID : 3692
+
+Distance 2.0 ID 3729.0              20%
+Distance 489.0 ID 3743.0
+Distance 579.0 ID 3712.0
+Distance 819.0 ID 3706.0
+Distance 1659.0 ID 3692.0
+
+Distance 2.0 ID 3729.0
+Distance 86.0 ID 3735.0
+Distance 122.0 ID 3740.0
+Distance 226.0 ID 3744.0
+Distance 266.0 ID 3717.0
+##
+
+##
+--- FINAL DATAPOINT 0 ---           100/20%
+GC Distance : 4361 ID : 5991
+--- FINAL DATAPOINT 1 ---
+GC Distance : 4396 ID : 5995
+--- FINAL DATAPOINT 2 ---
+GC Distance : 5186 ID : 6022
+--- FINAL DATAPOINT 3 ---
+GC Distance : 5513 ID : 5955
+--- FINAL DATAPOINT 4 ---
+GC Distance : 5554 ID : 5932
+
+Distance 4360.25 ID 5991.0          20%
+Distance 4393.0 ID 5995.0
+Distance 5185.25 ID 6022.0
+Distance 5512.25 ID 5955.0
+Distance 5553.25 ID 5932.0
+
+Distance 26.0 ID 5989.0
+Distance 31.25 ID 5991.0
+Distance 51.0 ID 5988.0
+Distance 173.0 ID 5989.0
+Distance 194.0 ID 6001.0
+##
+
+##
+--- FINAL DATAPOINT 0 ---           100/20%
+GC Distance : 4356 ID : 5991
+--- FINAL DATAPOINT 1 ---
+GC Distance : 4373 ID : 5995
+--- FINAL DATAPOINT 2 ---
+GC Distance : 5061 ID : 6022
+--- FINAL DATAPOINT 3 ---
+GC Distance : 5652 ID : 5955
+--- FINAL DATAPOINT 4 ---
+GC Distance : 5785 ID : 5932
+
+Distance 4356.0 ID 5991.0           20%
+Distance 4372.25 ID 5995.0
+Distance 5058.0 ID 6022.0
+Distance 5652.0 ID 5955.0
+Distance 5785.0 ID 5932.0
+
+Distance 26.0 ID 5991.0
+Distance 29.25 ID 5989.0
+Distance 60.25 ID 5988.0
+Distance 149.25 ID 6001.0
+Distance 175.25 ID 5989.0
+##
+
+TOP-K = 10
+NEAR CLUSTER POINT
+##
+--- FINAL DATAPOINT 0 ---           100/30%
+GC Distance : 4356 ID : 5991
+--- FINAL DATAPOINT 1 ---
+GC Distance : 4373 ID : 5995
+--- FINAL DATAPOINT 2 ---
+GC Distance : 5061 ID : 6022
+--- FINAL DATAPOINT 3 ---
+GC Distance : 5652 ID : 5955
+--- FINAL DATAPOINT 4 ---
+GC Distance : 5785 ID : 5932
+--- FINAL DATAPOINT 5 ---
+GC Distance : 6660 ID : 5943
+--- FINAL DATAPOINT 6 ---
+GC Distance : 7931 ID : 5988
+--- FINAL DATAPOINT 7 ---
+GC Distance : 8089 ID : 6058
+--- FINAL DATAPOINT 8 ---
+GC Distance : 11010 ID : 5971
+--- FINAL DATAPOINT 9 ---
+GC Distance : 12110 ID : 6006
+
+Distance 4356.0 ID 5991.0           30%
+Distance 4372.25 ID 5995.0
+Distance 5058.0 ID 6022.0
+Distance 5652.0 ID 5955.0
+Distance 5785.0 ID 5932.0
+Distance 6660.0 ID 5943.0
+Distance 7930.25 ID 5988.0
+Distance 8089.0 ID 6058.0
+Distance 11009.25 ID 5971.0
+Distance 12107.0 ID 6006.0
+
+Distance 26.0 ID 5991.0
+Distance 29.25 ID 5989.0
+Distance 60.25 ID 5988.0
+Distance 149.25 ID 6001.0
+Distance 175.25 ID 5989.0
+Distance 260.25 ID 5989.0
+Distance 273.0 ID 5995.0
+Distance 326.25 ID 5991.0
+Distance 329.0 ID 5989.0
+Distance 365.0 ID 5989.0
+##
+
+NEAR STASH POINT
+##
+--- FINAL DATAPOINT 0 ---           100/70%
+GC Distance : 4453 ID : 93840
+--- FINAL DATAPOINT 1 ---
+GC Distance : 11881 ID : 93831
+--- FINAL DATAPOINT 2 ---
+GC Distance : 12315 ID : 93790
+--- FINAL DATAPOINT 3 ---
+GC Distance : 15741 ID : 93855
+--- FINAL DATAPOINT 4 ---
+GC Distance : 16492 ID : 93721
+--- FINAL DATAPOINT 5 ---
+GC Distance : 57221 ID : 94070
+--- FINAL DATAPOINT 6 ---
+GC Distance : 61034 ID : 93831
+--- FINAL DATAPOINT 7 ---
+GC Distance : 61107 ID : 93838
+--- FINAL DATAPOINT 8 ---
+GC Distance : 65243 ID : 93766
+--- FINAL DATAPOINT 9 ---
+GC Distance : 96020 ID : 93840
+
+Distance 4441.0 ID 93840.0          70%
+Distance 11881.0 ID 93831.0
+Distance 12296.25 ID 93790.0
+Distance 15714.0 ID 93855.0
+Distance 16465.0 ID 93721.0
+Distance 57194.0 ID 94070.0
+Distance 61015.25 ID 93831.0
+Distance 61070.25 ID 93838.0
+Distance 65236.25 ID 93766.0
+Distance 87699.25 ID 93840.0
+
+Distance 1602.25 ID 93840.0
+Distance 2553.0 ID 93838.0
+Distance 4441.0 ID 93840.0
+Distance 5122.25 ID 93840.0
+Distance 6171.25 ID 93840.0
+Distance 11084.0 ID 93805.0
+Distance 11881.0 ID 93831.0
+Distance 12296.25 ID 93790.0
+Distance 14493.25 ID 93840.0
+Distance 14612.25 ID 93721.0
+##
+
+REDUCED K = 4
+TOP-K = 10
+NEAR STASH POINT
+##
+--- FINAL DATAPOINT 0 ---           70/90%
+GC Distance : 4453 ID : 93840
+--- FINAL DATAPOINT 1 ---
+GC Distance : 11881 ID : 93831
+--- FINAL DATAPOINT 2 ---
+GC Distance : 12315 ID : 93790
+--- FINAL DATAPOINT 3 ---
+GC Distance : 15741 ID : 93855
+--- FINAL DATAPOINT 4 ---
+GC Distance : 61034 ID : 93831
+--- FINAL DATAPOINT 5 ---
+GC Distance : 61107 ID : 93838
+--- FINAL DATAPOINT 6 ---
+GC Distance : 87706 ID : 93840
+--- FINAL DATAPOINT 7 ---
+GC Distance : 92510 ID : 93805
+--- FINAL DATAPOINT 8 ---
+GC Distance : 93428 ID : 94015
+--- FINAL DATAPOINT 9 ---
+GC Distance : 94833 ID : 93740
+
+Distance 4441.0 ID 93840.0          70%
+Distance 11881.0 ID 93831.0
+Distance 12296.25 ID 93790.0
+Distance 15714.0 ID 93855.0
+Distance 16465.0 ID 93721.0
+Distance 57194.0 ID 94070.0
+Distance 61015.25 ID 93831.0
+Distance 61070.25 ID 93838.0
+Distance 65236.25 ID 93766.0
+Distance 87699.25 ID 93840.0
+
+Distance 1602.25 ID 93840.0
+Distance 2553.0 ID 93838.0
+Distance 4441.0 ID 93840.0
+Distance 5122.25 ID 93840.0
+Distance 6171.25 ID 93840.0
+Distance 11084.0 ID 93805.0
+Distance 11881.0 ID 93831.0
+Distance 12296.25 ID 93790.0
+Distance 14493.25 ID 93840.0
+Distance 14612.25 ID 93721.0
+##
+
+##
+--- FINAL DATAPOINT 0 ---           90/60%
+GC Distance : 20741 ID : 70990
+--- FINAL DATAPOINT 1 ---
+GC Distance : 28161 ID : 70728
+--- FINAL DATAPOINT 2 ---
+GC Distance : 30766 ID : 71033
+--- FINAL DATAPOINT 3 ---
+GC Distance : 34795 ID : 70697
+--- FINAL DATAPOINT 4 ---
+GC Distance : 39854 ID : 71033
+--- FINAL DATAPOINT 5 ---
+GC Distance : 49915 ID : 71057
+--- FINAL DATAPOINT 6 ---
+GC Distance : 54272 ID : 70599
+--- FINAL DATAPOINT 7 ---
+GC Distance : 60723 ID : 70641
+--- FINAL DATAPOINT 8 ---
+GC Distance : 60781 ID : 71108
+--- FINAL DATAPOINT 9 ---
+GC Distance : 80617 ID : 71135
+
+Distance 20740.25 ID 70990.0        60%
+Distance 28158.0 ID 70728.0
+Distance 30763.0 ID 71033.0
+Distance 34794.25 ID 70697.0
+Distance 39851.0 ID 71033.0
+Distance 49908.25 ID 71057.0
+Distance 60722.25 ID 70641.0
+Distance 60774.25 ID 71108.0
+Distance 63138.25 ID 71106.0
+Distance 80614.0 ID 71135.0
+
+Distance 7061.0 ID 70946.0
+Distance 20740.25 ID 70990.0
+Distance 28158.0 ID 70728.0
+Distance 30763.0 ID 71033.0
+Distance 34794.25 ID 70697.0
+Distance 38195.0 ID 71057.0
+Distance 39851.0 ID 71033.0
+Distance 49908.25 ID 71057.0
+Distance 53155.0 ID 71057.0
+Distance 56799.25 ID 71033.0
+##
+
+NEAR CLUSTER POINT
+##
+--- FINAL DATAPOINT 0 ---           100/30%
+GC Distance : 523 ID : 1816
+--- FINAL DATAPOINT 1 ---
+GC Distance : 651 ID : 1812
+--- FINAL DATAPOINT 2 ---
+GC Distance : 755 ID : 1804
+--- FINAL DATAPOINT 3 ---
+GC Distance : 846 ID : 1860
+--- FINAL DATAPOINT 4 ---
+GC Distance : 936 ID : 1805
+--- FINAL DATAPOINT 5 ---
+GC Distance : 1062 ID : 1841
+--- FINAL DATAPOINT 6 ---
+GC Distance : 1229 ID : 1859
+--- FINAL DATAPOINT 7 ---
+GC Distance : 1387 ID : 1798
+--- FINAL DATAPOINT 8 ---
+GC Distance : 1454 ID : 1793
+--- FINAL DATAPOINT 9 ---
+GC Distance : 2042 ID : 1810
+
+Distance 516.25 ID 1816.0           30%
+Distance 650.25 ID 1812.0
+Distance 736.25 ID 1804.0
+Distance 845.25 ID 1860.0
+Distance 933.0 ID 1805.0
+Distance 1061.25 ID 1841.0
+Distance 1226.0 ID 1859.0
+Distance 1380.25 ID 1798.0
+Distance 1447.25 ID 1793.0
+Distance 2041.25 ID 1810.0
+
+Distance 19.25 ID 1834.0
+Distance 164.25 ID 1840.0
+Distance 289.25 ID 1831.0
+Distance 298.25 ID 1834.0
+Distance 485.25 ID 1845.0
+Distance 516.25 ID 1816.0
+Distance 578.25 ID 1848.0
+Distance 613.25 ID 1848.0
+Distance 650.25 ID 1812.0
+Distance 679.25 ID 1805.0
+##
+
+##
+--- FINAL DATAPOINT 0 ---           100/70%
+GC Distance : 14 ID : 1804
+--- FINAL DATAPOINT 1 ---
+GC Distance : 171 ID : 1793
+--- FINAL DATAPOINT 2 ---
+GC Distance : 257 ID : 1805
+--- FINAL DATAPOINT 3 ---
+GC Distance : 326 ID : 1812
+--- FINAL DATAPOINT 4 ---
+GC Distance : 378 ID : 1798
+--- FINAL DATAPOINT 5 ---
+GC Distance : 414 ID : 1816
+--- FINAL DATAPOINT 6 ---
+GC Distance : 843 ID : 1783
+--- FINAL DATAPOINT 7 ---
+GC Distance : 1117 ID : 1785
+--- FINAL DATAPOINT 8 ---
+GC Distance : 1609 ID : 1806
+--- FINAL DATAPOINT 9 ---
+GC Distance : 1617 ID : 1810
+
+Distance 7.25 ID 1804.0             70%
+Distance 170.25 ID 1793.0
+Distance 257.0 ID 1805.0
+Distance 325.25 ID 1812.0
+Distance 359.25 ID 1798.0
+Distance 395.25 ID 1816.0
+Distance 824.25 ID 1783.0
+Distance 1117.0 ID 1785.0
+Distance 1602.25 ID 1806.0
+Distance 1616.25 ID 1810.0
+
+Distance 2.25 ID 1805.0
+Distance 7.25 ID 1804.0
+Distance 170.25 ID 1793.0
+Distance 257.0 ID 1805.0
+Distance 290.25 ID 1805.0
+Distance 291.25 ID 1806.0
+Distance 325.25 ID 1812.0
+Distance 359.25 ID 1798.0
+Distance 395.25 ID 1816.0
+Distance 450.0 ID 1809.0
+##
+
+REDUCED K = 7
+TOP-K = 10
+NEAR STASH POINT
+##
+--- FINAL DATAPOINT 0 ---           90/70%
+GC Distance : 4453 ID : 93840
+--- FINAL DATAPOINT 1 ---
+GC Distance : 11881 ID : 93831
+--- FINAL DATAPOINT 2 ---
+GC Distance : 12315 ID : 93790
+--- FINAL DATAPOINT 3 ---
+GC Distance : 14649 ID : 93721
+--- FINAL DATAPOINT 4 ---
+GC Distance : 15741 ID : 93855
+--- FINAL DATAPOINT 5 ---
+GC Distance : 16492 ID : 93721
+--- FINAL DATAPOINT 6 ---
+GC Distance : 44174 ID : 93838
+--- FINAL DATAPOINT 7 ---
+GC Distance : 57221 ID : 94070
+--- FINAL DATAPOINT 8 ---
+GC Distance : 61107 ID : 93838
+--- FINAL DATAPOINT 9 ---
+GC Distance : 65243 ID : 93766
+
+Distance 4441.0 ID 93840.0          80%
+Distance 11881.0 ID 93831.0
+Distance 12296.25 ID 93790.0
+Distance 14612.25 ID 93721.0
+Distance 15714.0 ID 93855.0
+Distance 16465.0 ID 93721.0
+Distance 44155.25 ID 93838.0
+Distance 57194.0 ID 94070.0
+Distance 61015.25 ID 93831.0
+Distance 61070.25 ID 93838.0
+
+Distance 1602.25 ID 93840.0
+Distance 2553.0 ID 93838.0
+Distance 4441.0 ID 93840.0
+Distance 5122.25 ID 93840.0
+Distance 6171.25 ID 93840.0
+Distance 11084.0 ID 93805.0
+Distance 11881.0 ID 93831.0
+Distance 12296.25 ID 93790.0
+Distance 14493.25 ID 93840.0
+Distance 14612.25 ID 93721.0
+##
+
+REDUCED K = 7
+NEAR CLUSTER POINT
+##
+--- FINAL DATAPOINT 0 ---           100/20%
+GC Distance : 291 ID : 3032
+--- FINAL DATAPOINT 1 ---
+GC Distance : 294 ID : 3035
+--- FINAL DATAPOINT 2 ---
+GC Distance : 302 ID : 3031
+--- FINAL DATAPOINT 3 ---
+GC Distance : 339 ID : 3040
+--- FINAL DATAPOINT 4 ---
+GC Distance : 410 ID : 3053
+--- FINAL DATAPOINT 5 ---
+GC Distance : 483 ID : 3022
+--- FINAL DATAPOINT 6 ---
+GC Distance : 523 ID : 3048
+--- FINAL DATAPOINT 7 ---
+GC Distance : 554 ID : 3017
+--- FINAL DATAPOINT 8 ---
+GC Distance : 579 ID : 3016
+--- FINAL DATAPOINT 9 ---
+GC Distance : 621 ID : 3052
+
+Distance 290.25 ID 3032.0           20%
+Distance 293.25 ID 3035.0
+Distance 295.25 ID 3031.0
+Distance 317.0 ID 3022.0
+Distance 338.25 ID 3040.0
+Distance 403.25 ID 3053.0
+Distance 482.25 ID 3022.0
+Distance 516.25 ID 3048.0
+Distance 547.25 ID 3017.0
+Distance 578.25 ID 3016.0
+
+Distance 3.25 ID 3033.0
+Distance 4.25 ID 3034.0
+Distance 4.25 ID 3033.0
+Distance 83.0 ID 3024.0
+Distance 127.25 ID 3044.0
+Distance 262.0 ID 3039.0
+Distance 290.25 ID 3032.0
+Distance 290.25 ID 3034.0
+Distance 291.25 ID 3033.0
+Distance 293.25 ID 3035.0
+##

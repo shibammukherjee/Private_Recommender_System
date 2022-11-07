@@ -1,0 +1,35 @@
+MovieLens 100k -> 1700 movies -> 5.8k reduced dataset size
+1.3 GB						~x7								9 GB
+CPU - 4 sec					~x10							38 sec			MAG 1
+SOC - 19 sec				~x2
+Network Overload - 
+
+--------------------------------------------------
+MovieLens 1m -> 4000 movies -> 13k reduced dataset size
+1.9 GB						~x42							~80 GB
+CPU - 6 sec					~x63							~380 sec		MAG 1
+SOC - 28 sec				~x13
+Network Overload - 135 MB (2MB HE + 125MB GC)
+
+--------------------------------------------------
+MovieLens 10m -> 10000 movies -> 30k reduced dataset size
+3.4 GB						~x205							~700 GB
+CPU - 14 sec				~x271							~3800 sec		MAG 2
+SOC - 59 sec				~x64
+Network Overload - 200 MB (2MB Stash HE + 193MB Stash GC + 1.5MB PIR)
+
+--------------------------------------------------
+MovieLens 20m -> 27000 movies -> 70k reduced dataset size
+5.4 GB						~x222							~1200 GB
+CPU - 21 sec				~x361							~7600 sec		MAG 2
+SOC - TODO
+Network Overload - 177 MB (2MB Stash HE + 140MB Stash GC + 28MB Group HE + 6.6MB Group GC + 200KB PIR GC + 240Kb Top-K All GC)
+
+--------------------------------------------------
+Netflix 100m -> 17770 movies -> approx. 55k reduced dataset size
+~4.4 GB						~x1136							~5000 GB
+CPU - ~17 sec				~x2235							~38000 sec		MAG 3
+SOC - * sec
+Network Overload -
+
+--------------------------------------------------
